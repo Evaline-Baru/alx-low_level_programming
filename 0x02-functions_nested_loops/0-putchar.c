@@ -1,4 +1,3 @@
-#!/bin/bash
 #include "main.h"
 /**
  * main - prints _putchar, fllowd by a new linees
@@ -14,6 +13,6 @@ int main(void)
 	{
 		_putchar(abe[c]);
 	}
-	_putchar('\n ');
+	_putchar('\n');
 	return (0);
 }
